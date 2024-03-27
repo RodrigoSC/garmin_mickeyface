@@ -1,0 +1,11 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="hand_hour1" filename="hand_hour1.png" packingFormat="png"/>
+    <bitmap id="hand_hour2" filename="hand_hour2.png" packingFormat="png"/>
+    <bitmap id="hand_minute1" filename="hand_minute1.png" packingFormat="png"/>
+    <bitmap id="hand_minute2" filename="hand_minute2.png" packingFormat="png"/>
+    <bitmap id="head1" filename="head1.png" packingFormat="png"/>
+    <bitmap id="head2" filename="head2.png" packingFormat="png"/>
+    <bitmap id="eyes11" filename="eyes11.png" packingFormat="png"/>
+    <bitmap id="eyes21" filename="eyes21.png" packingFormat="png"/>
+</drawables>
